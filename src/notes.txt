@@ -8,3 +8,6 @@ git remote add krishCoolCoder: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 origin ht
 git push -u  origin main
 
 git push https://krishCoolCoder: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@github.com/krishCoolCoder/portfolio.git
+git push https://krishCoolCoder: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@github.com/krishCoolCoder/portfolio.git
+
+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
